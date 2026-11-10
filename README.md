@@ -65,7 +65,24 @@ The session focuses on the practical building blocks of modern LLM applications:
 - Summarising and extracting information from documents.
 - Designing workflows that are useful beyond a single prompt.
 - Thinking about reliability, security, latency, and cost.
+---
 
+## 📊 Session Presentation
+
+Want to revisit the concepts discussed during the session?
+
+The complete presentation is available below.
+
+### 📥 Download the PPT
+
+[**Beyond the Chatbot – Session Presentation**](./Beyond_the_Chatbot.pptx)
+
+Feel free to download the slides and use them as a learning resource.
+
+**Speaker:** Suryanshu Paul  
+**Community:** GDG on Campus – JIS University
+
+---
 ---
 
 ## Hands-on Demo: Campus Notice Assistant
